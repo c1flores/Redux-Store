@@ -47,8 +47,7 @@ The inversion of control described above ensures that the UI doesn’t need to b
 ## Screen Capture
 
 ## Live Application
-
-* [Link]()
+* [Link](https://reduxx-storee.herokuapp.com/)
 
 ## Installation
 
