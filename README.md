@@ -45,10 +45,16 @@ The inversion of control described above ensures that the UI doesn’t need to b
 </br>
 
 ## Screen Capture
+![]()
 
 ## Live Application
 * [Link](https://reduxx-storee.herokuapp.com/)
 
 ## Installation
-
+  1. Fork and clone repository to local machine. 
+  2. Open integrated terminal in personal IDE.
+  3. Run ```npm install``` in the highest level of the root directory to install all the necessary dependencies. 
+   
 ## Usage  
+  1. Open integrated terminal in personal IDE.
+  2. Run ```npm run develop``` to start a local development server and to compile required static assets. 
