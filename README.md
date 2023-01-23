@@ -48,7 +48,7 @@ The inversion of control described above ensures that the UI doesn’t need to b
 ![](https://github.com/c1flores/Redux-Store/blob/main/client/public/assets/Walkthrough.gif)
 
 ## Live Application
-* [Link](https://reduxx-storee.herokuapp.com/)
+[Link](https://reduxx-storee.herokuapp.com/)
 
 ## Installation
   1. Fork and clone repository to local machine. 
